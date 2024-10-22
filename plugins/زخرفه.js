@@ -35,8 +35,8 @@ function handler(m, { text }) {
       }[v.toLowerCase()] || v
   }))
 }
-handler.help = ['H A R L E Y']
-handler.tags = ['H A R L E Y']
+handler.help = ['زخرفه']
+handler.tags = ['tools']
 handler.command =  /^(زخرفة)$/i
 
 export default handler
