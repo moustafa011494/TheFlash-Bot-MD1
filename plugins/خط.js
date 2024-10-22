@@ -31,8 +31,8 @@ function handler(m, { text }) {
       }[v.toLowerCase()] || v
   }))
 }
-handler.help = ['V E N O M']
-handler.tags = ['V E N O M']
+handler.help = ['خط']
+handler.tags = ['tools']
 handler.command =  /^(خط|كيب)$/i
 
 export default handler
