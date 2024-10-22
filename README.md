@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.menu">Comunicarse con el bot</a>
+  <a href="https://api.whatsapp.com/send?phone=+201122522729&text=&text=.menu">Comunicarse con el bot</a>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+201022647804&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
@@ -14,7 +14,7 @@
 
 # `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة MOUSTAFA SHIREF` 
 <p align="center">
-<img src="https://envs.sh/06H.jpg" alt="⁨MOUSTAFA SHIREF" width="900"/>
+<img src="https://qu.ax/SpkEf.jpg" alt="⁨MOUSTAFA SHIREF" width="900"/>
 </p>
 
 ------------------
@@ -43,15 +43,15 @@
 ### `▢ Números oficiales de desarrolladores (activos)`
 
 
-<a href="https://api.whatsapp.com/send/?phone=972546887176&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=201122522729&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=201224563219&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=201022647804&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `▢يوتيوب المطور الرسمي (نشط)`
 
 ### `▢ Desarrollador oficial de YouTube (activo)`
 
-<a href="https://www.youtube.com/@Zack_247">
+<a href="https://www.youtube.com/">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
@@ -59,7 +59,7 @@
 
 ### `▢ Desarrollador oficial de YouTube2 (activo)`
 
-<a href="https://www.youtube.com/@Zack_247">
+<a href="https://www.youtube.com/">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
@@ -67,7 +67,7 @@
 
 ### 📁 طريقة رفع البوت عبر تيرموكس 🙌
 ### 📁 Cómo subir el bot vía Termux 🙌
-### [`FlashBot-MD ~ فريق الدعم - equipo de soporte`](https://api.whatsapp.com/send/?phone=972546887176&text=/estado&type=phone_number&app_absent=0)
+### [`MOUSTAFA SHIREF ~ فريق الدعم - equipo de soporte`](https://api.whatsapp.com/send/?phone=201122522729&text=/estado&type=phone_number&app_absent=0)
 ```bash
 termux-setup-storage
 ```
