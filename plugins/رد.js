@@ -123,7 +123,7 @@ await conn.sendMessage(m.chat, { react: { text: '😂', key: m.key } })
   
  } 
      
- if (/^نعم$/i.test(m.text) ) { //sem prefixo 
+ if (/^حبيب قلبي يابرو$/i.test(m.text) ) { //sem prefixo 
      conn.reply(m.chat, `*حد ناداك؟ 🐦*`, m) //wm, null, [['Menu', '#menu']], m) botones :V 
   
  } 
