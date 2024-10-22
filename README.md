@@ -1,20 +1,20 @@
 <p align="center">
- <img width="180px" src="https://envs.sh/wHc.jpg" align="center"/>
- <h2 align="center">TheFlash-Bot-MD</h2>
- <p align="center">Este bot fue desarrollado por Zack y Naruto.</p>
+ <img width="180px" src="https://qu.ax/SpkEf.jpg" align="center"/>
+ <h2 align="center">MOSHIREF﹝⚡﹞BOT</h2>
+ <p align="center">Este bot fue desarrollado por MOUSTAFA SHIREF.</p>
 </p>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.menu">Comunicarse con el bot</a>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
+  <a href="https://api.whatsapp.com/send?phone=+201022647804&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
 
-# `Flash-Bot` 
+# `MOSHIREF﹝⚡﹞BOT` 
 
-# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة عــراب زاك و نــاروتــو` 
+# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة MOUSTAFA SHIREF` 
 <p align="center">
-<img src="https://envs.sh/06H.jpg" alt="⁨عــراب زاك⁩" width="900"/>
+<img src="https://envs.sh/06H.jpg" alt="⁨MOUSTAFA SHIREF" width="900"/>
 </p>
 
 ------------------
@@ -25,9 +25,7 @@
 > El idioma principal en el que trabajaron los desarrolladores es el árabe y el Español.
 ### `▢ الحسابات الرسمية`
 
-[ 🔗 ] https://github.com/araab-zack
-
-[ 🔗 ] https://github.com/naru12348
+[ 🔗 ] https://github.com/
 
 ### `▢ مجموعات الدعم (المتوفرة)`
 ### `▢ Grupos de apoyo (Disponibles)`
